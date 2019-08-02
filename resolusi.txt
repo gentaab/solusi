@@ -1,3 +1,4 @@
 RESOLUDI SAYA
 -  Membuat soal-soal bahasa pemograman
 - Membuat Fourm diskusi
+- Membuat konten
